@@ -61,10 +61,6 @@ VALUES ('Eve', '9990001112', 'eve@example.com', 'Kolkata');
 INSERT INTO Registrations (Event_Id, Attendee_Id, Registration_Date, Registration_Amount)
 VALUES (2, 5, '2025-07-12', 300.00);
 
--- =========================
--- 6. ANALYTICAL QUERIES
--- =========================
-
 SELECT * FROM Events;
 
 SELECT 
