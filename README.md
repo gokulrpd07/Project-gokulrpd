@@ -58,6 +58,4 @@ Technologies Used
 Author
 ------
 Gokul Raj D
-ICLeaf Capstone Project – Academic & Event Management System with OLAP Analysis
-July 2025
-
+gokulrpd@amazon.com
